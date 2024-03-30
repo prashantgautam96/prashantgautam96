@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantgautam96&label=Profile%20views&color=0e75b6&style=flat" alt="prashantgautam96" /> </p>
 
-<p align="left"> <a href="https://twitter.com/prashant_g96" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/prashant_g96?logo=twitter&style=for-the-badge" alt="https://twitter.com/prashant_g96" /></a> </p>
+<p align="left"> <a href="https://twitter.com/prashant_g96" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/prashant_g96" /></a> </p>
 
 - 🌱 I’m currently learning **Springboot, AWS**
 
