@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/prashant_g96" target="blank"> </p>
 
-- 🌱 I’m currently learning **Springboot, AWS**
 
 - 👨‍💻 All of my projects are available at [https://prashantgautam96.github.io/prashantgautam/#/home](https://prashantgautam96.github.io/prashantgautam/#/home)
 
