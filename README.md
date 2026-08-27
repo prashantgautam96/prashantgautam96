@@ -16,7 +16,7 @@ I enjoy turning complex problems into **simple, reliable, and scalable software*
 | ------------------ | ------------------------------------------------------ |
 | **Languages**      | Java · Python · JavaScript · SQL                       |
 | **Backend**        | Spring Boot · Spring Cloud · REST APIs · Microservices |
-| **Databases**      | PostgreSQL · Redis · MySQL · Neo4j                     |
+| **Databases**      | PostgreSQL · Redis · MySQL · DynamoDb                    |
 | **Messaging**      | Apache Kafka · RabbitMQ                                |
 | **Infrastructure** | Docker · Kubernetes · CI/CD                            |
 | **Engineering**    | System Design · Distributed Systems · Concurrency      |
