@@ -92,7 +92,7 @@ I care about understanding **why** a system works—not just making it work.
 ## 🌐 Connect
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/prashant-gautam-iit/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
