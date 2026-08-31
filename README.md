@@ -10,7 +10,7 @@
 
 ### Java Backend Engineer · Microservices · Distributed Systems · Observability
 
-**Software Engineer** | **Java** | **Spring Boot** | **Microservices** | **PostgreSQL** | **Kafka** | **Redis** | **OpenTelemetry** | **Distributed Systems** | **System Design** | **Observability** | **AI Infrastructure** | **IIT Jammu** | **128+ LeetCode Problems** | **Backend Engineering** | **Scalability & Reliability** | **Always Building 🚀**
+**Software Engineer** | **Java** | **Spring Boot** | **Microservices** | **PostgreSQL** | **Kafka** | **Redis** | **OpenTelemetry** | **Distributed Systems** | **System Design** | **Observability** | **AI Infrastructure** | **IIT Jammu** | **180+ LeetCode Problems** | **Backend Engineering** | **Scalability & Reliability** | **Always Building 🚀**
 
 <br>
 
@@ -183,7 +183,7 @@ Built using distributed backend services with Spring Cloud, PostgreSQL and Hyper
 
 ## 🧠 I'm Code On — DSA
 
-- 🔥 **128+ LeetCode Problems**
+- 🔥 **180+ LeetCode Problems**
 - 🧩 Arrays & Hashing
 - 🪟 Sliding Window
 - 👉 Two Pointers
