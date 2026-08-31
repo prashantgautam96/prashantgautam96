@@ -1,497 +1,236 @@
 <div align="center">
 
-# 👋 Hi, I'm Prashant Gautam
+# Hi 👋 I'm Prashant Gautam
 
-### Backend Software Engineer · Distributed Systems · Observability
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+Microservices;Distributed+Systems+%7C+Kafka+%7C+Redis;Observability+%7C+OpenTelemetry;System+Design+%7C+Data-Intensive+Systems;Always+learning.+Always+building." alt="Typing SVG" />
+## Backend Software Engineer · Building Scalable Backend & Distributed Systems
 
-<br/>
+---
+
+### Java Backend Engineer · Microservices · Distributed Systems · Observability
+
+**Software Engineer** | **Java** | **Spring Boot** | **Microservices** | **PostgreSQL** | **Kafka** | **Redis** | **OpenTelemetry** | **Distributed Systems** | **System Design** | **Observability** | **AI Infrastructure** | **IIT Jammu** | **128+ LeetCode Problems** | **Backend Engineering** | **Scalability & Reliability** | **Always Building 🚀**
+
+<br>
 
 <a href="https://github.com/prashantgautam96">
-<img src="https://img.shields.io/badge/GitHub-prashantgautam96-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://leetcode.com/u/programmerprashantgautam/">
-<img src="https://img.shields.io/badge/LeetCode-128%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Prashant%20Gautam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🧠 About Me
 
-```text
-I build backend systems designed to survive real-world complexity.
+## 👨‍💻 About Me
 
-→ Backend Software Engineer focused on Java & Spring Boot
-→ Interested in distributed systems and data-intensive applications
-→ Experienced with microservices and event-driven architectures
-→ Working with Kafka, Redis and PostgreSQL
-→ Building and exploring observability with OpenTelemetry
-→ Interested in scalability, reliability and high-performance APIs
-→ Currently sharpening Data Structures, Algorithms and System Design
-→ Computer Science graduate from IIT Jammu
-```
-
-I'm particularly interested in the engineering problems that appear **after systems become complicated**:
-
-* How do we make distributed services observable?
-* How do we process millions of events reliably?
-* How do we design systems that degrade gracefully?
-* How do we scale reads without sacrificing reliability?
-* How do we build systems that are easy to operate and debug?
-* How do we make infrastructure vendor-neutral?
-
-> **My goal:** become an exceptional backend engineer who can reason from **code → architecture → infrastructure**.
+- 🚀 **2+ Years** of Software Engineering Experience building backend systems and production applications
+- ☕ **Java Backend Engineer** focused on **Spring Boot, Microservices, REST APIs & Distributed Systems**
+- 🏗️ Worked on **3+ Major Engineering Projects** across backend platforms, land administration and infrastructure monitoring
+- ⚡ Hands-on with **10+ Backend & Infrastructure Technologies** including Java, Spring Boot, PostgreSQL, Kafka, Redis, Docker & OpenTelemetry
+- 📡 Experience with **OpenTelemetry-based Observability**, Distributed Tracing, Metrics & Logs
+- 📨 Worked with **Event-Driven Architecture, Message Queues & Asynchronous Processing**
+- 🗄️ **4+ Data Technologies** — PostgreSQL, MySQL, MongoDB & Redis
+- 🧩 Experience building **Multi-Tenant Microservice Architectures**
+- 🔗 Worked with **Hyperledger Fabric & Blockchain-backed systems**
+- 🧠 **180+ LeetCode Problems Solved** with a focus on DSA & Problem Solving
+- 🏆 **1482+ LeetCode Contest Rating** | **2+ Contests**
+- 🎓 **IIT Jammu** — Computer Science
+- 🤖 Building **Vantage**, a vendor-neutral Governance & Observability layer for Enterprise AI Agents
+- 🔭 Currently going deeper into **Distributed Systems, System Design, Kafka, Databases & Observability**
+- ❤️ **Backend Engineering Enthusiast** | **System Design Learner** | **Distributed Systems Explorer**
 
 ---
 
-# ⚙️ Tech Stack
+# 💼 Professional Experience
 
-### 💻 Languages
+## 🏢 Zuci Systems
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
-</p>
+### **Software Engineer**
 
-`Java` · `Python` · `C++` · `JavaScript` · `SQL`
+**Feb 2025 – Jul 2026** · India
+
+- 🚀 **Designed and developed a collaboration service** enabling multiple clients to collaborate on a single application, supporting shared workflows and coordination across distributed backend services.
+- 🔔 **Designed a notification service** for delivering application activity notifications to collaborators and integrating notification workflows with backend application events.
+- 📧 **Designed an email delivery service** using **Jasper Templates**, enabling reusable generation and delivery of structured application emails across multiple workflows.
+- 📉 **Reduced p95 API latency by 35%** by optimizing complex **PostgreSQL queries, indexes and execution plans** for data-intensive backend workloads.
+- 📨 **Developed asynchronous and event-driven workflows using Apache Kafka**, enabling decoupled communication and reliable processing between distributed services.
+- ⚡ **Integrated Redis caching** for latency-sensitive operations, reducing repeated database access and improving backend API responsiveness.
+- 📡 **Implemented application observability** using **OpenTelemetry, Micrometer, Prometheus, Grafana, Elasticsearch and Kibana** across distributed services.
+- 🔇 **Reduced production logging noise by 85%**, improving observability signal quality and making production issue diagnosis significantly easier.
+- 🔍 **Investigated and resolved production issues** across REST APIs, backend services, PostgreSQL queries and distributed service dependencies.
+- 🔐 **Implemented authentication and authorization** using **Spring Security, JWT and RBAC**, while addressing vulnerabilities identified through **AWS Inspector**.
+- 🛠️ Worked across application, database and infrastructure layers to identify root causes and implement reliable production fixes.
+- 👥 Participated in **code reviews and backend design discussions**, contributing to maintainable implementations and engineering best practices.
+
+### 🛠️ Technologies
+
+`Java` | `Spring Boot` | `Spring Data JPA` | `Hibernate`
+
+`PostgreSQL` | `Kafka` | `Redis`
+
+`OpenTelemetry` | `Micrometer` | `Prometheus` | `Grafana`
+
+`Elasticsearch` | `Kibana` | `AWS` | `Docker`
+
+`Spring Security` | `JWT` | `RBAC`
+
+## 🏢 Aequalis Software Solutions
+
+### **Software Engineer**
+
+**Jun 2024 – Jan 2025** · India
+
+- 🚀 **Developed backend services for an enterprise Land Administration Platform** using **Java, Spring Boot, Hibernate/JPA, PostgreSQL and REST APIs**.
+- 🧩 **Designed and implemented REST APIs and service-layer business logic** for complex land administration workflows.
+- 🗄️ **Simplified entity relationships** by removing unnecessary database join tables, reducing unnecessary database operations and application complexity.
+- ⚡ **Optimized PostgreSQL-backed functionality** using SQL queries, stored procedures, materialized views, relational data modeling and query optimization.
+- 🔄 **Developed data-processing workflows using Spring Batch**, scheduled jobs and ETL pipelines for processing and transforming application data.
+- 📨 Implemented backend integrations and data-processing workflows across multiple application modules and database operations.
+- 🔍 **Debugged and resolved application, API, database and integration issues** across backend modules.
+- 🧠 Improved existing backend functionality by analyzing application flows, simplifying implementations and addressing performance and maintainability issues.
+- 🏗️ Worked on backend architecture involving **microservices, database-backed workflows and service integrations**.
+
+### 🛠️ Technologies
+
+`Java` | `Spring Boot` | `Spring MVC`
+
+`Hibernate` | `Spring Data JPA` | `REST APIs`
+
+`PostgreSQL` | `SQL` | `Stored Procedures`
+
+`Materialized Views` | `Spring Batch` | `ETL`
+
+`Scheduled Jobs` | `Microservices`
 
 ---
 
-### 🚀 Backend
+## 🏢 Earnnest.me
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,hibernate" />
-</p>
+### **Software Engineering Intern**
 
-`Java` · `Spring Boot` · `Spring Cloud` · `Spring Data JPA`
-`Hibernate` · `REST APIs` · `Microservices`
+**Mar 2023 – Nov 2023** · India
 
----
-
-### 🗄️ Databases & Storage
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
-
-`PostgreSQL` · `MySQL` · `MongoDB` · `Redis`
-`Database Design` · `Indexing` · `Query Optimization` · `JSONB`
+- 🚀 Contributed to the development of **production application features and backend functionality**.
+- 🧩 Implemented application features based on product requirements within an existing software codebase.
+- 🔍 Participated in **development, testing, debugging and iterative delivery** of application functionality.
+- 🛠️ Worked across existing application components to understand, modify and improve backend functionality.
 
 ---
+
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+`Java` | `Python` | `C++` | `JavaScript` | `SQL`
+
+### ⚡ Backend & Frameworks
+
+`Spring Boot` | `Spring Cloud` | `Hibernate` | `JPA` | `REST APIs` | `Microservices`
+
+### 🗄️ Databases
+
+`PostgreSQL` | `MySQL` | `MongoDB` | `Redis`
 
 ### 📨 Messaging & Distributed Systems
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=kafka" />
-</p>
-
-`Apache Kafka` · `Event-Driven Architecture` · `Message Queues`
-`Caching` · `Replication` · `High Availability` · `Fault Tolerance`
-
----
+`Kafka` | `Event-Driven Architecture` | `Message Queues` | `Async Processing` | `Caching`
 
 ### 📡 Observability
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-</p>
+`OpenTelemetry` | `Prometheus` | `Grafana` | `Distributed Tracing` | `Metrics` | `Logs`
 
-`OpenTelemetry` · `Distributed Tracing` · `Metrics` · `Logs`
-`Prometheus` · `Grafana` · `Observability Pipelines`
+### ☁️ Infrastructure
 
----
-
-### ☁️ Infrastructure & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,idea,postman" />
-</p>
-
-`Docker` · `Kubernetes` · `Linux` · `Git`
-`GitHub` · `IntelliJ IDEA` · `Postman`
+`Docker` | `Kubernetes` | `Linux` | `Git` | `GitHub` | `CI/CD`
 
 ---
 
-# 🏗️ Engineering Interests
+## 🚀 Featured Projects
 
-<div align="center">
+### 🔭 01. Vantage
 
-|            Area           | What I'm Exploring                              |
-| :-----------------------: | :---------------------------------------------- |
-|       🧩 **Backend**      | Java · Spring Boot · REST · Microservices       |
-| ⚡ **Distributed Systems** | Kafka · Messaging · Caching · Replication       |
-|        🗄️ **Data**       | PostgreSQL · Database Internals · Data Modeling |
-|    📡 **Observability**   | OpenTelemetry · Metrics · Logs · Tracing        |
-|    🏛️ **Architecture**   | System Design · Scalability · Reliability       |
-|   🧠 **Problem Solving**  | DSA · Algorithms · Complexity                   |
-|  🤖 **AI Infrastructure** | AI Agents · Governance · Observability          |
+**Vendor-Neutral Governance & Observability Layer for Enterprise AI Agents**
 
-</div>
+> Building infrastructure to make enterprise AI agents observable, governable and controllable across AI providers.
+
+**Tech:** `AI Agents` | `Observability` | `Governance` | `Distributed Systems`
+
+🔗 https://github.com/prashantgautam96/vantage
 
 ---
 
-# 🚀 Featured Projects
+### 🌍 03. LAVA — Land Administration Platform
 
-## 🔭 Vantage
+**Multi-Tenant Land Administration Platform**
 
-### Vendor-Neutral Governance & Observability Layer for Enterprise AI Agents
+Built using distributed backend services with Spring Cloud, PostgreSQL and Hyperledger Fabric.
 
-A platform focused on making enterprise AI agents **observable, governable and controllable** across different AI providers and infrastructure.
-
-### Focus
-
-`AI Agents` · `Governance` · `Observability` · `Distributed Systems`
-
-### Repository
-
-<a href="https://github.com/prashantgautam96/vantage">
-<img src="https://img.shields.io/badge/View%20Project-Vantage-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**Tech:** `Java` | `Spring Boot` | `Spring Cloud` | `PostgreSQL` | `Eureka` | `API Gateway` | `Hyperledger Fabric`
 
 ---
 
-## 🔐 AI-Powered SSL Insights & Monitoring
+## 🧠 I'm Code On — DSA
 
-A backend platform for monitoring SSL/TLS certificates and providing intelligent insights around certificate health, expiration and infrastructure visibility.
+- 🔥 **128+ LeetCode Problems**
+- 🧩 Arrays & Hashing
+- 🪟 Sliding Window
+- 👉 Two Pointers
+- 🔍 Binary Search
+- 📚 Stack & Queue
+- 🌳 Trees & Binary Trees
+- 🕸️ Graphs
+- 🔙 Backtracking
+- 🧠 Dynamic Programming
 
-### Focus
-
-`Java` · `Spring Boot` · `PostgreSQL` · `REST APIs`
-`Monitoring` · `AI` · `Infrastructure`
-
----
-
-## 🌍 LAVA — Land Administration Platform
-
-A multi-tenant land administration platform built around Land Administration Domain Model concepts and distributed backend services.
-
-### Architecture
-
-```text
-                        ┌─────────────────┐
-                        │   Nx / Angular   │
-                        │    Frontend      │
-                        └────────┬────────┘
-                                 │
-                                 ▼
-                    ┌────────────────────────┐
-                    │   Spring Cloud Gateway │
-                    └────────────┬───────────┘
-                                 │
-                    ┌────────────┴────────────┐
-                    ▼                         ▼
-           ┌────────────────┐       ┌────────────────┐
-           │ Eureka Server  │       │ Config Server  │
-           └────────────────┘       └────────────────┘
-                    │
-                    ▼
-          ┌──────────────────────┐
-          │   Domain Services    │
-          │    Microservices      │
-          └──────────┬───────────┘
-                     │
-             ┌───────┴────────┐
-             ▼                ▼
-      ┌─────────────┐  ┌─────────────────┐
-      │ PostgreSQL  │  │ Hyperledger     │
-      │             │  │ Fabric          │
-      └─────────────┘  └─────────────────┘
-```
-
-### Technologies
-
-`Java` · `Spring Boot` · `Spring Cloud`
-`PostgreSQL` · `Eureka` · `Spring Cloud Gateway`
-`Hyperledger Fabric` · `REST APIs` · `Microservices`
+🔗 **LeetCode:** https://leetcode.com/u/programmerprashantgautam/
 
 ---
 
-# 🧠 Problem Solving
 
-I practice Data Structures & Algorithms with a focus on **understanding patterns rather than memorizing solutions**.
 
-<div align="center">
+## 🔭 Currently Exploring
 
-### 🧮 128+ LeetCode Problems Solved
-
-<a href="https://leetcode.com/u/programmerprashantgautam/">
-<img src="https://img.shields.io/badge/LeetCode-128%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</div>
-
-### Current Focus
-
-```text
-Arrays & Hashing
-       ↓
-Two Pointers
-       ↓
-Sliding Window
-       ↓
-Binary Search
-       ↓
-Stacks & Queues
-       ↓
-Trees & Graphs
-       ↓
-Backtracking
-       ↓
-Dynamic Programming
-```
-
-<a href="https://leetcode.com/u/programmerprashantgautam/">
-View my LeetCode Profile →
-</a>
+- ⚡ **Distributed Systems**
+- ☕ **Advanced Java & Spring Boot**
+- 📨 **Kafka & Event-Driven Architecture**
+- 🗄️ **Database Internals**
+- 📡 **OpenTelemetry & Observability**
+- 🏗️ **Large-Scale System Design**
+- 🤖 **AI Infrastructure & Agent Observability**
+- 🚀 **High-Performance Backend Systems**
 
 ---
 
-# 🏛️ System Design
+## 🧭 Engineering Philosophy
 
-I'm going deep into **large-scale and data-intensive systems**.
+> **Don't just make it work. Understand why it works.**
 
-### Systems I Study & Design
-
-```text
-┌───────────────────────────────────────────────────────────┐
-│                    SYSTEM DESIGN                          │
-├───────────────────────────────────────────────────────────┤
-│                                                           │
-│  🔗 URL Shortener           🔔 Notification System        │
-│                                                           │
-│  🚦 Rate Limiter             📨 Message Queue             │
-│                                                           │
-│  ⚡ Distributed Cache        🔎 Search System              │
-│                                                           │
-│  📦 File Storage             ⏱️ Job Scheduler              │
-│                                                           │
-│  💳 Payment System           📡 Observability Platform    │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-```
-
-### Core Concepts
-
-`Load Balancing` · `Caching` · `Sharding` · `Replication`
-
-`Consistency` · `Availability` · `Partition Tolerance`
-
-`Kafka` · `Redis` · `PostgreSQL`
-
-`CDN` · `API Gateway` · `Service Discovery`
-
-`Event-Driven Architecture` · `Async Processing`
-
-`Horizontal Scaling` · `Fault Tolerance` · `Backpressure`
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=prashantgautam96&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"
-alt="Prashant's GitHub Stats"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantgautam96&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
-alt="Prashant's Top Languages"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=prashantgautam96&theme=github-dark-blue&hide_border=true"
-alt="GitHub Streak"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=prashantgautam96&theme=github-dark&hide_border=true&area=true"
-alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=prashantgautam96&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
-alt="GitHub Trophies"/>
-
-</div>
-
----
-
-# 🔥 What I'm Currently Exploring
-
-<div align="center">
-
-```text
-                    ┌──────────────────────┐
-                    │  DISTRIBUTED SYSTEMS │
-                    └──────────┬───────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              ▼                ▼                ▼
-        ┌──────────┐     ┌──────────┐     ┌───────────┐
-        │  Kafka   │     │  Redis   │     │PostgreSQL │
-        └────┬─────┘     └────┬─────┘     └─────┬─────┘
-             │                │                  │
-             └────────────────┼──────────────────┘
-                              ▼
-                    ┌───────────────────┐
-                    │   OBSERVABILITY   │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                     ┌────────────────┐
-                     │ OpenTelemetry  │
-                     └────────┬───────┘
-                              │
-                              ▼
-                    ┌────────────────────┐
-                    │ SYSTEM INTELLIGENCE│
-                    └────────────────────┘
-```
-
-</div>
-
----
-
-# 🧭 Current Learning Path
-
-```text
-                    Backend Engineering
-                            │
-                            ▼
-                       System Design
-                            │
-                            ▼
-                    Distributed Systems
-                            │
-              ┌─────────────┼─────────────┐
-              ▼             ▼             ▼
-          Databases       Kafka         Redis
-              │             │             │
-              └─────────────┼─────────────┘
-                            ▼
-                       Observability
-                            │
-                            ▼
-                      OpenTelemetry
-                            │
-                            ▼
-                    AI Infrastructure
-```
-
----
-
-# 🧪 Engineering Philosophy
-
-> **Simple systems first. Scale only when the problem demands it.**
-
-Good backend engineering isn't about using the most technologies.
-
-It's about understanding:
-
-```text
-Requirements
-     ↓
-Constraints
-     ↓
-Data Model
-     ↓
-API Design
-     ↓
-Architecture
-     ↓
-Failure Modes
-     ↓
-Observability
-     ↓
-Scalability
-```
-
-The best systems aren't just **fast**.
-
-They're:
-
-**Reliable · Observable · Maintainable · Scalable**
-
----
-
-# 🎯 Areas I'm Interested In
-
-```text
-☕ Java & Spring Boot
-🏗️ Backend Architecture
-⚡ Distributed Systems
-📨 Event-Driven Systems
-📡 Observability
-🔭 OpenTelemetry
-🗄️ Databases
-🚀 System Design
-🤖 AI Infrastructure
-🔐 Infrastructure Security
-```
-
----
-
-# 📫 Let's Connect
-
-I'm always interested in conversations around:
-
-**Backend Engineering · Distributed Systems · System Design**
-
-**Java · Spring Boot · Kafka · PostgreSQL · Redis**
-
-**OpenTelemetry · Observability · AI Infrastructure**
-
-<div align="center">
-
-<a href="https://github.com/prashantgautam96">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://leetcode.com/u/programmerprashantgautam/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</div>
+- 👉 Start with the simplest architecture that solves the problem
+- 👉 Understand the data before choosing the technology
+- 👉 Design for failure, not just the happy path
+- 👉 Make systems observable from day one
+- 👉 Optimize based on actual bottlenecks
+- 👉 Prefer maintainability over unnecessary complexity
+- 👉 Think about scale before scale becomes the problem
 
 ---
 
 <div align="center">
 
-### ⚡ Build systems. Understand systems. Break systems. Improve systems.
+## ⚡ Build. Break. Understand. Improve.
 
-<br/>
-
-⭐ **If you find something interesting here, consider starring a repository.**
+### Thanks for visiting! 🚀
 
 </div>
